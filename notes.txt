@@ -31,4 +31,12 @@ https://tutorial.djangogirls.org/en/django_start_project/
     We do that in the file mysite/settings.py -- open it in your code editor.
     We need to find INSTALLED_APPS and add a line containing 'blog', just above ].
 
-13. In the blog/models.py file we define all objects called Models – this is a place in which we will define our blog post
+13. In the blog/models.py file we define all objects called Models – this is a place in which we will define our blog post.
+
+14. This way your application knows what it should show to a user who opens that URL.
+    In Django, we use something called URLconf (URL configuration). 
+    URLconf is a set of patterns that Django will try to match the requested URL to find the correct view.
+
+15. A view is a place where we put the "logic" of our application.
+
+16. 
