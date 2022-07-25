@@ -47,3 +47,5 @@ https://tutorial.djangogirls.org/en/django_start_project/
 
 18. A QuerySet is, in essence, a list of objects of a given Model.
     QuerySets allow you to read the data from the database, filter it and order it.
+
+19. 
