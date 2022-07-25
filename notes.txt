@@ -48,6 +48,6 @@ https://tutorial.djangogirls.org/en/django_start_project/
 18. A QuerySet is, in essence, a list of objects of a given Model.
     QuerySets allow you to read the data from the database, filter it and order it.
 
-19.  In a view we decide what (model) will be displayed in a template.
+19. In a view we decide what (model) will be displayed in a template.
 
-20. 
+20. Django template tags allow us to transfer Python-like things into HTML,so you can build dynamic websites faster.
