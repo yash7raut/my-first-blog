@@ -51,3 +51,6 @@ https://tutorial.djangogirls.org/en/django_start_project/
 19. In a view we decide what (model) will be displayed in a template.
 
 20. Django template tags allow us to transfer Python-like things into HTML,so you can build dynamic websites faster.
+
+21. Another nice thing Django has for you is template extending.
+    What does this mean? It means that you can use the same parts of your HTML for different pages of your website.
